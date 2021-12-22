@@ -307,6 +307,10 @@ body.dark .about .row .info span {
     padding-left: 3rem;
 }
 
+body.dark .education .box-container .box {
+    border-left: .2rem solid black;
+}
+
 .education .box-container .box {
     width: 27rem;
     margin: 4rem 1rem;
